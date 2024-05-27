@@ -1,3 +1,4 @@
+![Screenshot_20240526_004721_com snaptube premium_edit_1757043776814](https://github.com/vuejs/docs/assets/166208805/9c01bd60-cceb-48f1-8452-530c7ebe0ad0)
 ---
 footer: false
 ---
